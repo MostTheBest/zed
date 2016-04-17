@@ -212,7 +212,7 @@ function create_config( )
     "inrealm",
     "ingroup",
     "inpm",
-    "banhammer",
+    "BANHAMMER",
     "stats",
     "anti_spam",
     "owners",
@@ -224,7 +224,8 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "admin"
+    "admin",
+    "PLUGINS"
     },
     sudo_users = {198794027},--Sudo users
     disabled_channels = {},
